@@ -2,7 +2,7 @@
 A casual color-mixing game for iOS
 
 Created by:
-\nJason Leung
+\n Jason Leung
 \nJames Phillips
 \nKevin Yao
 
