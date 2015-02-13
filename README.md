@@ -2,9 +2,9 @@
 A casual color-mixing game for iOS
 
 Created by:
-Jason Leung
-James Phillips
-Kevin Yao
+\nJason Leung
+\nJames Phillips
+\nKevin Yao
 
 Complements is a casual, procedurally generated puzzle game for iOS. Players swipe the screen to send cascades of colored dots
 across the board, where they’ll interact with the dots that are already there. When two primary-colored dots collide, they’ll 
